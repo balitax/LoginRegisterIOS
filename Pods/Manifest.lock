@@ -1,0 +1,19 @@
+PODS:
+  - ActionButton (0.1.4)
+  - Bolts/Tasks (1.5.0)
+  - FlatUIKit (1.6.2)
+  - Parse (1.10.0):
+    - Bolts/Tasks (~> 1.5)
+
+DEPENDENCIES:
+  - ActionButton (~> 0.1)
+  - FlatUIKit (~> 1.6)
+  - Parse (~> 1.10)
+
+SPEC CHECKSUMS:
+  ActionButton: 1b94024013cf57e960d09aa56792f29e1bb545e0
+  Bolts: 722ab9a4f8b50fc4ed1b9998a5a7a2b3f16d80b4
+  FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
+  Parse: 90b2544822200f84b18bfacc4e8b0a3a6c3584a2
+
+COCOAPODS: 0.39.0
